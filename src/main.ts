@@ -34,7 +34,7 @@ function init() {
         }
     )
 
-    const marker = new google.maps.Marker({
+    new google.maps.Marker({
         position: pos,
         map
     })
