@@ -12,6 +12,7 @@
     "vite": "^2.5.2"
   },
   "dependencies": {
-    "@splidejs/splide": "^2.4.21"
+    "@splidejs/splide": "^2.4.21",
+    "sass": "^1.39.0"
   }
 }
