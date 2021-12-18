@@ -1,6 +1,7 @@
 {
   "name": "attila",
   "version": "0.0.0",
+  "description": "this is awesome dude",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
